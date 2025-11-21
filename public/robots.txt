@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://colorconverter.doodax.com/sitemap.xml

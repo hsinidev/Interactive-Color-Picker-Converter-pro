@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Color Picker & Converter",
+  "description": "A modern, interactive color tool that allows users to select a color via a visual picker or HEX input and instantly see the corresponding values in HEX, RGB, and HSL formats. Features a color history and a vibrant, animated background.",
+  "requestFramePermissions": []
+}
