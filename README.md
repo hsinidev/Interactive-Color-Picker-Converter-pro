@@ -9,7 +9,7 @@
 
 <br />
 
-## 🚀 **[LIVE DEMO](https://colorconverter.doodax.com)** 
+## 🚀 **[LIVE DEMO](https://doodax.com/tools/interactive-color/index.html)** 
 *(Opens in a new tab)*
 
 <br />
